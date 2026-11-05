@@ -58,7 +58,7 @@ The Kali Linux virtual machine was configured with dedicated memory, processing 
 
 ### Virtual Machine Overview
 
-![Kali Virtual Machine](screenshots/01-virtual-machine.png)
+![Kali Virtual Machine]2-screenshot-network-settings-1.png
 
 ---
 
@@ -77,7 +77,8 @@ A NAT Network named **NatNetwork** was configured in Oracle VirtualBox to provid
 
 ### NAT Network Configuration
 
-![NAT Network Configuration](screenshots/02-nat-network.png)
+![NAT Network Configuration] <img width="1600" height="850" alt="1-screenshot-network-settings png" src="https://github.com/user-attachments/assets/20eabf84-d880-4de6-9bf0-b5c7da6fc99d" />
+
 
 ### Network Adapter Configuration
 
