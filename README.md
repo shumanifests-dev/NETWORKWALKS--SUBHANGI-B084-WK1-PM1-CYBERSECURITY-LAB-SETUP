@@ -58,7 +58,8 @@ The Kali Linux virtual machine was configured with dedicated memory, processing 
 
 ### Virtual Machine Overview
 
-![Kali Virtual Machine]2-screenshot-network-settings-1.png
+![Kali Virtual Machine] <img width="1600" height="825" alt="2-screenshot-settings png" src="https://github.com/user-attachments/assets/7f82422b-0c33-4d6d-a3a4-8ccdc39ef214" />
+
 
 ---
 
@@ -92,7 +93,8 @@ The Kali Linux virtual machine was connected to the configured NAT Network throu
 | Network Name | NatNetwork |
 | Cable Connected | Enabled |
 
-![Kali NAT Network Adapter](screenshots/04-nat-network-adapter.png)
+![Kali NAT Network Adapter] <img width="1600" height="825" alt="2-screenshot-settings png" src="https://github.com/user-attachments/assets/bf83da21-7d0b-40bc-9ab7-26371e5363a0" />
+
 
 ### Networking Concepts
 
@@ -112,7 +114,8 @@ The configured environment uses the XFCE desktop interface and Linux terminal fo
 
 ### Terminal Environment
 
-![Kali Linux Terminal](screenshots/03-kali-terminal.png)
+![Kali Linux Terminal] <img width="1600" height="768" alt="3-screenshot-kali-linux png" src="https://github.com/user-attachments/assets/8a91aa6a-2ad8-4c54-9c47-80d0ee39206b" />
+
 
 ### Basic Linux Commands
 
